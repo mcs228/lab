@@ -42,8 +42,7 @@
 
 ### 20. [Write a Python Program to implement Artificial Neural Network for data classification , choose dataset of your own choice](Artificial-Neural-Network.py)
 
-### 21. [Write a Python Program to implement Feed Forward Neural Network on a given dataset for data classification , choose dataset of
-your own choice](Feed-Forward-Neural-Network.py)
+### 21. [Write a Python Program to implement Feed Forward Neural Network on a given dataset for data classification , choose dataset of your own choice](Feed-Forward-Neural-Network.py)
 
 ### 22. [Write a Python Program to implement Principal Component Analysis on a dataset of your own choice](Principal-Component-Analysis.py)
 
